@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-social-links-screenshot.png
+![](social-links-screenshot.png)
 
 ### Links
 
